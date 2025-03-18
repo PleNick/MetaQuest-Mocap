@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\AnimetionTest\\Intermediate\\Source\\AnimetionTest.Build.cs",
+		"D:\\Unreal\\AnimetionTest\\Intermediate\\Source\\AnimetionTest.Target.cs",
+		"D:\\Unreal\\AnimetionTest\\Intermediate\\Source\\AnimetionTestClient.Target.cs",
+		"D:\\Unreal\\AnimetionTest\\Intermediate\\Source\\AnimetionTestEditor.Target.cs",
+		"D:\\Unreal\\AnimetionTest\\Intermediate\\Source\\AnimetionTestServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
